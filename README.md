@@ -5,8 +5,8 @@ A collection of my LeetCode solutions and problem - solving journey
 - Language : Java
 - Difficulty : Easy -> Medium -> Hard
 
-## Goala 
+## Goals 
 - Strengthen problem - solving skills
 - Master Data Structures and Algorithms
-- Write clean and efficient code
+- Write clean , efficient and documented code
 - Stay consistent by solving problems regularly
