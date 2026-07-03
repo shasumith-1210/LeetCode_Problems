@@ -1,2 +1,12 @@
 # LeetCode_Problems
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+A collection of my LeetCode solutions and problem - solving journey
+
+## About
+- Language : Java
+- Difficulty : Easy -> Medium -> Hard
+
+## Goala 
+- Strengthen problem - solving skills
+- Master Data Structures and Algorithms
+- Write clean and efficient code
+- Stay consistent by solving problems regularly
