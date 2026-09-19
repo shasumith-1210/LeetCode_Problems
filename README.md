@@ -38,6 +38,7 @@ LeetCode-Problems/
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
