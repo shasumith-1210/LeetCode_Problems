@@ -59,4 +59,8 @@ LeetCode-Problems/
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/0704-binary-search) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
