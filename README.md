@@ -40,6 +40,7 @@ LeetCode-Problems/
 | ------- |
 | [0027-remove-element](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0704-binary-search](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/0704-binary-search) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/1920-build-array-from-permutation) |
