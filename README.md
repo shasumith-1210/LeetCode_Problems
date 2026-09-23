@@ -38,6 +38,7 @@ LeetCode-Problems/
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0704-binary-search](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -52,6 +53,7 @@ LeetCode-Problems/
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/0027-remove-element) |
 ## Simulation
 |  |
