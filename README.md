@@ -40,6 +40,7 @@ LeetCode-Problems/
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -81,4 +82,8 @@ LeetCode-Problems/
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shasumith-1210/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
